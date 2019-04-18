@@ -1,6 +1,5 @@
 import React from 'react';
 import BudgetList from './BudgetList';
-import BudgetForm from './BudgetForm';
 import superagent from 'superagent';
 
 export default class Main extends React.Component {
